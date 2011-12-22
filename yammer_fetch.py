@@ -1,4 +1,3 @@
-import urllib
 """
 	NAME
 		yammer_fetch.py
@@ -10,6 +9,7 @@ import urllib
 		This script fetches all of a specific user's Yammer posts.
 		
 """
+import urllib
 import urllib2
 import json
 import time
